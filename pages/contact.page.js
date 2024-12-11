@@ -158,8 +158,8 @@ function Contact() {
                             <TfiHome className="tw-text-[27px]" />
                           </span>
                           <div className={style.media_body}>
-                            <h3>Kishanpur</h3>
-                            <p>Aligarh, Uttar Pradesh</p>
+                            <h3>Ethiopia</h3>
+                            <p>Addis Abeba, Ethiopia</p>
                           </div>
                         </div>
                         <div className={`${style.contactinfo} media`}>
@@ -167,7 +167,7 @@ function Contact() {
                             <TfiTablet className="tw-text-[27px]" />
                           </span>
                           <div className={style.media_body}>
-                            <h3>9368086395</h3>
+                            <h3>+251954654126</h3>
                             <p>Mon to Fri 9am to 6pm</p>
                           </div>
                         </div>

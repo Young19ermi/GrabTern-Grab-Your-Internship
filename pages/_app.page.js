@@ -97,11 +97,11 @@ function MyApp({ Component, pageProps }) {
         <meta name="theme-color" content="#0000" />
         <meta
           name="linkedin:profile"
-          content="https://www.linkedin.com/company/grabtern/"
+          content="https://www.linkedin.com/in/ermias-seleshi/"
         />
         <meta
           property="instagram:username"
-          content="https://www.instagram.com/grabtern.guide/"
+          content="https://www.instagram.com/"
         />
         <meta property="og:type" content="website" />
         <meta name="og:author" content="anmode" />
@@ -123,7 +123,7 @@ function MyApp({ Component, pageProps }) {
         <meta name="twitter:card" content="/NewLogo.png" />
         <meta name="twitter:site" content="@grabtern" />
         <meta name="twitter:image" content="/NewLogo.png" />
-        <meta property="twitter:url" content="https://www.grabtern.in/" />
+        <meta property="twitter:url" content="https://www.twitter.com" />
         <meta property="twitter:title" content="Grabtern" />
         <meta
           property="twitter:description"

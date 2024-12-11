@@ -186,7 +186,7 @@ function Footer() {
               variant="secondary"
             />
             <IconLink
-              href="#"
+              href="https://www.linkedin.com/in/ermias-seleshi/"
               aria-label="Follow us on Linkedin"
               title="Linkedin (External Link)"
               rel="noopener noreferrer"
@@ -194,7 +194,7 @@ function Footer() {
               variant="secondary"
             />
             <IconLink
-              href="https://github.com/anmode/grabtern-frontend"
+              href="https://github.com/Young19ermi/GrabTern-Grab-Your-Internship"
               aria-label="Follow us on Github"
               title="Github (External Link)"
               rel="noopener noreferrer"
